@@ -3,4 +3,4 @@ Project with a sensor connected to an ESP32 which detects motion and sends a not
 
 ***Picutre displaying the flowchart.***
 
-https://github.com/MarcusNilssonn/Detect-Motion/blob/main/Images/H%C3%A5rdvaraL%C3%B6sning.jpg
+![Alt text](images/HårdvaraLösning.jpg)
